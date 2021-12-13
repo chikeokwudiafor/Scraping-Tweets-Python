@@ -1,0 +1,2 @@
+# Scraping-Tweets-Python
+I was listening to the #BlackTechTwitter career space on @KanivaTover on Twitter. a lot of recruiters spoke. I want to get a list of everyone that spoke and where they worked. @Nikki_T compiled a twitter thread of the details. I decided to scrape this information from Twitter to an excel spreadsheet for better viewing and easy access. It was also my first time scraping twitter infromaton. 
